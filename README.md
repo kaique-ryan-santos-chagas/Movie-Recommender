@@ -1,3 +1,3 @@
-<p align="center">
-  # Movie-Recommender
+# <p align="center">
+   Movie-Recommender
 </p>
