@@ -1,6 +1,6 @@
 
 
-<p><img src="https://user-images.githubusercontent.com/59677362/129117151-416fb116-7e75-41b7-9957-f6619da2c6ad.gif" /></p>
+<p><img src="https://user-images.githubusercontent.com/59677362/129117151-416fb116-7e75-41b7-9957-f6619da2c6ad.gif" width=20 /></p>
 
 # <p align="center"> Welcome to the MR Software </p>
 
