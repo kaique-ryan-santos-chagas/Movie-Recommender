@@ -7,6 +7,6 @@
 
 
 
-# The application first screen:
+# <img src="https://user-images.githubusercontent.com/59677362/129117151-416fb116-7e75-41b7-9957-f6619da2c6ad.gif" width=100 />The application first screen:
 <p align="center"> <img src="https://user-images.githubusercontent.com/59677362/129115543-fda440c2-edee-4992-add8-dac03826f252.PNG" /> </p>
 
